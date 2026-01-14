@@ -20,6 +20,8 @@ underserved topics
 ### Graham Hancock
 ### Pyramids
 ### Goabekley Tepi
+https://www.youtube.com/watch?v=clkAjUx4Ox4
+
 
 ## NASA deception program
 
@@ -73,7 +75,7 @@ Thermit
 
 no blackblox
 
-
+Calling out bravo 7
 
 +Explosion testimonies
 +firefighters making it to 
@@ -88,7 +90,7 @@ Clearly someone had
 
 
 
-Yet, 3ith all that in mond
+Yet, with all that in mond
 
 +passport found on the street
  used as proof 
