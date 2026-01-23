@@ -10,14 +10,28 @@
 
 underserved topics
 
+https://www.youtube.com/watch?v=kEIwmYihzNQ 
+
 # folder list
+
+## WAKE UP
+
+ your perception of yourself can impact how others percieve you and vice versa. If you hold yourself to a high regard, you will carry yourself more  and confidently. Opposite is true, if the environment around you treats you favourably or  it promotes a sense of confidence in yourself which you embody. But not only can changing your perspective change how others regard you, your perception of yourself can ultimately change you from the inside so that, over time, you actually become the version of who you seek to be. 
+
+## Universal Randomness and the Mind
+https://www.youtube.com/watch?v=kCAcQt5-rL8
+
 
 ## Ongoing world crises
 ### gaza
 ### sudan
+### Zionism
 
 ## Lost Civilizations and Ancient Technology by Graham Hanckock
 ### Graham Hancock
+#### The war on Consciousness 
+https://www.youtube.com/watch?v=Y0c5nIvJH7w
+
 ### Pyramids
 ### Goabekley Tepi
 https://www.youtube.com/watch?v=clkAjUx4Ox4
@@ -47,7 +61,7 @@ Those who thought it up, set it up, blew it up, and are covering it up have mana
 
 Once the evudence is seen a child can see right through their official narrative /9/11 story
 
-The 9/11 Commision report that gave the fullest possible account could not explained the last 30 seconds. 
+The 9/11 Commision report that gave the fullest possible account could not explain the last 30 seconds. 
 Emergency management agency can't explain the last 30 seconds.
 The american society of civil engeneers can't not explain the 
 The 200 technical experts incuding about 85 carrer mist experts and a 125 leading experts from private sector and academia can't explain the l
@@ -88,13 +102,16 @@ bbcworld
 Building 7 standing in the live shot behind the reporter for complete 6 minutes until  . A
 Clearly someone had 
 
-
+major shorting united airl 
+the carlyle group 
 
 Yet, with all that in mond
 
 +passport found on the street
  used as proof 
 +magiq luggage
+
+part 48 bad pilot 77
 
 +Bin Laden and
 
@@ -104,11 +121,18 @@ The planes that hit the wtc were in fact not the planes that were hijacked
 
 +wtc art residency
 +GELATINE
-+dancing art students
++dancing Isrealies
+Not many people know that on the morning of 9/11 a lady in New Jersey  who was watching the first twin towers engulfed inn flames spotted five middle-eastern lookingmen filming it, high-fiveing, and cheering . She took them to be Arabic. She called the police. The police eventually tracked them down. theu t van. they were Isreales , tehy became known as the dancing isreales. they were arrested and kept in costudy for 71 days...unless the suppposed ultrazionist, head of the criminal division of the justice department, Michal Chertoff, relesed them.
+
+Also not many people know the same Michael C released the 200 arrested in the spiring . These 5 dancing isreales , 2 of them were known by the police to be mossad agents, said that they were there to document the event...
+
 +media coverup
 +George Bush slipups
 +
 + cleanup
+
+penta
+
 
 
 ### aftermath of 9/11
@@ -116,7 +140,8 @@ poisoned firefighters
 
 ### pandemic vaccinations
 ### epstein case
-### 
+### deepstate
+
 
 ## 
 
