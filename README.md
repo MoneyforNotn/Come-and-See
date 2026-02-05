@@ -5,18 +5,9 @@
 
 ***Its preparations are concealed, not published. Its mistakes are buried, not headlined. Its dissenters are silenced, not praised. No expenditure is questioned, no rumor is printed, no secret is revealed.***"
 
-> President John F. Kennedy, April 27th 1961
->
+> President John F. Kennedy, April 27th 1961 [#](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)
 
 
-
-
-[link here](https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-newspaper-publishers-association-19610427)
-
-
-underserved topics
-
-https://www.youtube.com/watch?v=kEIwmYihzNQ 
 
 # folder list
 
@@ -152,6 +143,9 @@ poisoned firefighters
 
 ## 
 
+underserved topics
+
+https://www.youtube.com/watch?v=kEIwmYihzNQ 
 
 
 
