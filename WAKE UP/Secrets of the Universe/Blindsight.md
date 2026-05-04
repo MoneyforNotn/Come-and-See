@@ -1,5 +1,9 @@
 ### Blindsight
 
+**Blindsight is a phenomenon where individuals who are technically blind can still react to visual stimuli without conscious awareness, suggesting that the brain processes visual information through multiple pathways. While the primary visual cortex is damaged, about 10% of optic nerve fibers bypass it and connect to the superior colliculus, an older part of the brain responsible for rapid responses to movement and threats. This results in a disconnect between conscious perception and physical reaction, creating a situation where the body responds to the environment while the mind remains unaware.**
+
+***
+
 Most people would assume that damage to the region of the brain responsible for vision would result in complete blindness. However, there is a disconcerting phenomenon known as blindsight. People with this condition are, by clinical measures, blind and will report that they perceive nothing; yet their bodies respond to the environment as though their vision were intact. 
 
 If you threw a ball at someone with blindsight, they might flinch or raise a hand to protect themselves even though they saw nothing. If you asked them to walk down a corridor strewn with obstacles such as chairs or boxes, they would navigate around every object without stumbling. But when queried about why they turned or sidestepped, they will insist they have no idea and were merely guessing.  
