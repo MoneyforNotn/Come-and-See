@@ -1,5 +1,11 @@
 # Deep State
 
+> **Legacy note — source and authorship unverified.** The original wording below
+> is preserved for research. Its dialogue, numbers, quotations, and allegations
+> have not been authenticated. See [the second pilot](secret-societies-finance-and-political-power.md)
+> for a comparison with the two supplied interviews. Similar themes do not
+> establish that the sources describe the same actors or organization.
+
 The deep state is a conspiracy theory; it's defined as the people within the U.S. government and military who are in secret control of government policy. Secret? Please, people. The deep state is those people within the U.S. government who are career employees that cannot be fired by the people we elect, by Congress or the President.
 
 These include the FCC, the CIA, the Securities and Exchange Commission, the IRS. Are these people in control? Can they enact laws? Fuck yes. They're called regulations. For every law that Congress passes—and we elect Congress to pass our laws—there are 20 regulations enacted by federal agencies that have far more impact on our lives than anything Congress can possibly pass.

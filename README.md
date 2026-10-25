@@ -24,12 +24,15 @@ This is an evolving public library. Existing material is being reorganized and r
 
 **Pilot in development:** [Universal randomness, the mind, and AI](UNIVERSE%20%26%20MIND/Universal%20randomness%20%26%20AI.md) — Draft.
 
-The current folders remain in place while we develop the structure:
+**Second pilot:** [Secret societies, finance, and political power](POWER%20%26%20GOVERNANCE/secret-societies-finance-and-political-power.md) — Draft, based on two Jiang Xueqin interviews.
+
+The former Deep State folder is now **Power and governance**. Other collections
+remain in place while we develop the structure:
 
 | Area | Existing collection |
 | :--- | :--- |
 | Ancient world | [Ancient technology and archaeology](ANCIENT%20TECHNOLOGY%20%26%20GRAHAM%20HANCOCK/) |
-| Governance and history | [Kennedy investigations](JFK/) · [Institutional power](DEEP%20STATE/) |
+| Governance and history | [Kennedy investigations](JFK/) · [Power and governance](POWER%20%26%20GOVERNANCE/) |
 | Conflict and crises | [World crises](ONGOING%20WORLD%20CRISES/) · [War and accountability](WAR%20%26%20WAR%20CRIMES/) |
 | Mind and perception | [Universe and mind](UNIVERSE%20%26%20MIND/) · [Perception notes](WAKE%20UP/Secrets%20of%20the%20Universe/) |
 | Science and technology | [Spaceflight questions](NASA%20DECEPTION%20PROGRAM/) |
@@ -49,7 +52,11 @@ Articles label the kind of claim being made. A single article may contain severa
 
 These categories describe the claim's role; they do not replace evaluating source quality. Repetition across websites does not necessarily mean independent confirmation. Distinguish an author's statement from evidence that the statement is true.
 
-Each developed article should open with a short takeaway, provide context and nearby citations, address uncertainty and counterevidence, and include sources and a review date. Personal reflections should be clearly attributed.
+Each developed article should open with a faithful summary of its source's key
+ideas and qualifications. The article then explains the argument and adds
+relevant context, citations, uncertainty, and counterevidence. Source summaries
+and editorial assessments are identified separately. Personal reflections should
+be clearly attributed.
 
 **Draft** means work in progress. **Reviewed** means the article has received an editorial and source check, with uncertainty retained. **Needs update** flags material requiring another check. Older articles without a status should be treated as awaiting review.
 
@@ -60,10 +67,13 @@ Each developed article should open with a short takeaway, provide context and ne
 1. Define the question and collect the relevant resources.
 2. Inspect sources, trace important claims, and seek counterevidence.
 3. Write an accessible explanation with evidence categories and citations.
-4. Check accuracy, attribution, uncertainty, and readability; record corrections.
+4. Check fidelity to the source, then accuracy, attribution, uncertainty, and readability; record corrections.
 5. Review changes locally, then commit and publish when the owner requests it.
 
 The research agent assists with this process and must disclose inaccessible sources and unresolved claims. It must never invent citations or imply it reviewed material it could not access.
+
+The [editorial workflow](docs/editorial-workflow.md) and
+[article template](templates/source-article.md) record the approach used for new entries.
 
 This checkout is the working foundation for GitHub content. Public articles belong here; raw notes, transcripts, and personal source material stay outside the repository. See [project instructions](AGENTS.md) for the working rules.
 

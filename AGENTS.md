@@ -64,6 +64,22 @@ sources, seek counterevidence, and distinguish the source's argument from the
 repository's assessment. Put citations beside the claims they support. Record
 source coverage, dates, uncertainty, and meaningful corrections.
 
+For an article based on supplied resources, the opening "In brief" must summarize
+their central ideas, reasoning, examples, conclusions, and qualifications with
+clear attribution. Explain the source on its own terms before adding an
+assessment. Preserve conditional language and distinguish host questions from
+guest assertions. Do not replace the source's thesis with an editorial verdict.
+
+Keep supplementary research tied to the source's important claims. Put detailed
+background in an appendix when it would displace the main account. Separate
+source summary, connections drawn by the repository, and evidence assessment.
+Two interviews with the same speaker are not independent corroboration.
+
+Keep unconventional and philosophical questions open where evidence cannot
+settle them. Distinguish unverified, disputed, contradicted, and untestable claims;
+neither lack of disproof nor familiarity establishes truth. Review source fidelity
+and evidence quality separately. See [the editorial workflow](docs/editorial-workflow.md).
+
 Keep raw transcripts outside the checkout. Disclose auto-generated captions and
 any unverified audio or visual details. A transcript is a source for what a
 speaker argued, not independent validation of that argument.
